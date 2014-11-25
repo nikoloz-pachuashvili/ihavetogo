@@ -1,4 +1,4 @@
-I Have to Go
+I have to Go
 =========
 
 Experimenting with Golang
